@@ -1,2 +1,3 @@
+// Archivo de práctica para Git: commits, push, ramas, etc.
 Este es el primer texto del archivo
 Linea adicional para el segundo commit
